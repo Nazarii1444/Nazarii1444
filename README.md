@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Ukraine-FFD700?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Studies-Computer%20Science-4169E1?style=flat-square" alt="Studies" />
+  <img src="https://img.shields.io/badge/Study-Computer%20Science-4169E1?style=flat-square" alt="Studies" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-47A248?style=flat-square" alt="Focus" />
 </p>
 
