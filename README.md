@@ -15,8 +15,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-339933?style=flat-square&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-E10098?style=flat-square&logo=Flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-089484?style=flat-square&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-2a2123?style=flat-square&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
