@@ -13,7 +13,7 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-339933?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-1e415e?style=flat-square&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
   <img src="https://img.shields.io/badge/-FastAPI-089484?style=flat-square&logo=FastAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-2a2123?style=flat-square&logo=Flask&logoColor=white" />
