@@ -55,5 +55,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-
-[![Nazarii Protskiv profile views](https://u8views.com/api/v1/github/profiles/171423267/views/day-week-month-total-count.svg)](https://u8views.com/github/Nazarii1444)
+<div align="center">
+  [![Nazarii Protskiv profile views](https://u8views.com/api/v1/github/profiles/171423267/views/day-week-month-total-count.svg)](https://u8views.com/github/Nazarii1444)
+</div>
