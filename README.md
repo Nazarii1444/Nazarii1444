@@ -46,10 +46,6 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nazarii1444&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
