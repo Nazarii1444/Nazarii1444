@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Focus-Web%20Development-47A248?style=flat-square" alt="Focus" />
 </p>
 
-<p align="center">Passionate about crafting robust backend systems and sleek frontend interfaces. Exploring the depths of modern web technologies to build scalable and efficient applications.</p>
-
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
